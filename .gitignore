@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/.xxx.dist
+test.html
+
+//这里的文件和目录不会被git监控
